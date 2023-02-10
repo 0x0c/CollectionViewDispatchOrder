@@ -13,6 +13,7 @@
 		E9CF0E3929960071003E0519 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9CF0E3729960071003E0519 /* Main.storyboard */; };
 		E9CF0E3B29960072003E0519 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9CF0E3A29960072003E0519 /* Assets.xcassets */; };
 		E9CF0E3E29960072003E0519 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9CF0E3C29960072003E0519 /* LaunchScreen.storyboard */; };
+		E9CF0E4829960505003E0519 /* MyCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CF0E4729960505003E0519 /* MyCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E9CF0E3A29960072003E0519 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9CF0E3D29960072003E0519 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9CF0E3F29960072003E0519 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9CF0E4729960505003E0519 /* MyCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E9CF0E3129960071003E0519 /* AppDelegate.swift */,
 				E9CF0E3329960071003E0519 /* SceneDelegate.swift */,
 				E9CF0E3529960071003E0519 /* ViewController.swift */,
+				E9CF0E4729960505003E0519 /* MyCollectionView.swift */,
 				E9CF0E3729960071003E0519 /* Main.storyboard */,
 				E9CF0E3A29960072003E0519 /* Assets.xcassets */,
 				E9CF0E3C29960072003E0519 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E9CF0E3629960071003E0519 /* ViewController.swift in Sources */,
 				E9CF0E3229960071003E0519 /* AppDelegate.swift in Sources */,
+				E9CF0E4829960505003E0519 /* MyCollectionView.swift in Sources */,
 				E9CF0E3429960071003E0519 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
